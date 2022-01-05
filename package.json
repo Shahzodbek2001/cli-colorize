@@ -1,0 +1,25 @@
+{
+  "name": "cli-colorize",
+  "version": "1.0.0",
+  "description": "CLI Colorizer for Nodejs",
+  "main": "./src/index.js",
+  "bin": "./src/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shahzodbek2001/cli-colorize.git"
+  },
+  "keywords": [
+    "cli",
+    "color",
+    "custom"
+  ],
+  "author": "Shakhzodbek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shahzodbek2001/cli-colorize/issues"
+  },
+  "homepage": "https://github.com/Shahzodbek2001/cli-colorize#readme"
+}
