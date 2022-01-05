@@ -1,4 +1,4 @@
-class CliColorize extends String {
+class CliColorize {
     #bg = "";
     #color = "";
     #value = "";
